@@ -28,9 +28,3 @@ This project explores the US Accidents (2016 - 2023) dataset from Kaggle. The go
 ---
 ## 📁 Files
 [Jupyter Notebook](accident-analysis.ipynb) – Main notebook containing the analysis
-
-README.md – Project overview and documentation
----
-
-## 🌐 View on Kaggle
-You can also view this notebook and run it interactively on Kaggle
